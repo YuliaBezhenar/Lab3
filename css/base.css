@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Namu";    
+    src: url("font/NAMU-Pro.woff") format('woff');
+  }
+
+  :root{
+    /*colors*/
+    --color-black: #302925;
+    --color-brown: #A67C58;
+    --color-light-brown: #D9BBA0;
+    --color-dark-brown: #8C593B;
+    --color-light: #F2E4DC;
+    --color-pink: #BF7E78;
+    /*text*/
+    --font-family-text: "Namu";
+    --font-size-h1: 120px;
+    --font-size-h2: 60px;
+    --font-size-h3: 40px;
+    --font-size-p: 32px;
+    --font-size-menu: 24px;
+    /*page*/
+    --width: 1920px;
+    --width-main: 1760px;
+    --width-menu: 1100px;
+    --height-menu: 110px;
+    --height-header: 750px;
+    --height-footer: 290px;
+    --padding-left: 80px;
+    --padding-right: 80px;
+    /*відступи*/
+  }
